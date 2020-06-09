@@ -1,6 +1,13 @@
+:root {
+    --background-transparente: #2a2a2a57;
+}
+
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
 body{
     margin: auto 10%;
-    background: url('../assets/background.jpg') no-repeat ;
+    background: url('../assets/background2.jpg') no-repeat ;
     background-size: cover;
-    
 }
