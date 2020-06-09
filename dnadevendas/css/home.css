@@ -1,10 +1,4 @@
-body{
-   background-color: violet;
-}
 
-.container-principal{
-    margin: auto 10%;
-}
 
 .cabecalhoPrincipal{
     margin-top: 35px;
@@ -22,9 +16,5 @@ header .container{
 }
 
 .cabecalhoPrincipal-nav-link{
-    margin-right: 17px;
-}
-
-.cabecalhoPrincipal-nav-link span{
-
+    margin-right: 25px;
 }
