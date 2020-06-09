@@ -1,0 +1,30 @@
+body{
+   background-color: violet;
+}
+
+.container-principal{
+    margin: auto 10%;
+}
+
+.cabecalhoPrincipal{
+    margin-top: 35px;
+}
+
+header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cabecalhoPrincipal-nav{
+  display: flex;
+  align-items: center;
+}
+
+.cabecalhoPrincipal-nav-link{
+    margin-right: 17px;
+}
+
+.cabecalhoPrincipal-nav-link span{
+
+}
