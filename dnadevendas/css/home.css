@@ -64,7 +64,10 @@ header .container{
 }
 
 .contato-whatsapp{
-    left: 100px;
+    position: fixed;
+    top: 310px;
+    width: 55px;
+    right: 0pt;
 }
 
 .divisao-box{
