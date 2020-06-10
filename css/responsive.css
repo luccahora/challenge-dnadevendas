@@ -1,0 +1,9 @@
+@media (max-width: 900px){
+    body {
+        background: url('../assets/background2.jpg') no-repeat ;
+        margin: auto 5%;
+        overflow-x: hidden;
+        width: 100%;      
+    }
+
+}
