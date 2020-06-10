@@ -1,13 +1,11 @@
-
-
 .container-principal{
-    
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
 }
-
 
 .cabecalhoPrincipal{
     margin-top: 35px;
-    
 }
 
 header .container{
@@ -22,11 +20,11 @@ header .container{
 }
 
 .cabecalhoPrincipal-nav-link{
-    margin-right: 25px;
+    margin-right: 25px;     
 }
 
 .container-principal main{
-    margin-top: 200px;
+    margin-top: 20%;
 }
 
 .container-principal section{
@@ -55,13 +53,14 @@ header .container{
     font-weight: bold;
     font-size: 13px;
     margin-top: 25px;
-    padding: 8px;
+    padding: 10px;
     background-color: #c8ac78;
     text-decoration: none;
     display: inline-block;
     text-transform: uppercase;
     cursor: pointer;
     text-align: center;
+    border-radius: 2px;
 }
 
 .contato-whatsapp{
@@ -76,7 +75,6 @@ header .container{
 .items-box{
     display: grid;
     position: absolute;
-    width: 80%;
     bottom: 0;
     grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
     gap: 5px;
@@ -89,7 +87,6 @@ header .container{
     list-style: none;
     border-radius: 5px;
     height: 135px;
-    
 }
 
 .card-texto h2{
